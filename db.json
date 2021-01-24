@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "exasd4",
+      "day": "10 feb at 3pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "aasd123",
+      "day": "4 sep at 2pm",
+      "reminder": false
+    },
+    {
+      "text": "use effect and redux",
+      "day": "todayyy",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "redux and use effect",
+      "day": "today ",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "abc123",
+      "day": "sdasd",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "testtt",
+      "day": "2 sep at 10am",
+      "reminder": false,
+      "id": 7
+    }
+  ]
+}
